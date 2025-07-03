@@ -1,4 +1,4 @@
-# Introduction
+# About Yunyao Gu
 ## Business Owner And Life Long Learner
 ### #NeverSmart #AlwaysFoolish
 #### Yun, known professionally as Yunyao Gu, serves as the Business Owner of Divine Design. Yun was a senior UX UI designer and design consultant with 4 years of full time working experiences, known for extensive collaborations with prominent clients spanning the technology, education, e-commerce, insurance, and finance sectors. At the helm of Divine Design, a leading design company specializing in socially responsible design and strategy, Yun prioritizes cutting-edge design iterations tailored to the distinctive needs of small and medium-sized businesses. Emphasizing a design philosophy centered on human values, locality, and iterative processes, Yun’s approach underscores a commitment to elevating user experience and business objectives above profit-driven motives in corporations. Drawing on a wealth of experience from previous roles within consulting firms and Fortune 500 companies, Yun brings a diverse skill set to her current endeavors. Proficient in rapid prototyping, full-stack UCD methodology, and effective stakeholder management, Yun ensures that projects are executed with efficiency and precision, consistently surpassing client expectations. Yun holds an MBA from Quantic School of Business with a scholarship, and has completed the one year long LEAD Online Business Program at Stanford Graduate School of Business.
@@ -18,12 +18,12 @@ ___
 
 ## Links
 
-Inline link: [medium](https://medium.com/@yunyaogu)
-
+Medium Blog link: [medium](https://medium.com/@yunyaogu)
+Vimeo link: [vimeo](https://vimeo.com/user239071263)
 
 ---
 
 ## Images
 
-![Profile Pic](<img class="sc-faUpoM eaSqdP" alt="yunyao gu" src="https://i.vimeocdn.com/portrait/113854477_100x100?subrect=4%2C0%2C797%2C793&amp;r=cover&amp;sig=4ae2b9e52e5ffc731885b890cab047c903424806c278a4d0670d316e02d7d5fe&amp;v=1&amp;region=us" srcset="https://i.vimeocdn.com/portrait/113854477_288x288?subrect=4%2C0%2C797%2C793&amp;r=cover&amp;sig=4ae2b9e52e5ffc731885b890cab047c903424806c278a4d0670d316e02d7d5fe&amp;v=1&amp;region=us 2x, https://i.vimeocdn.com/portrait/113854477_300x300?subrect=4%2C0%2C797%2C793&amp;r=cover&amp;sig=4ae2b9e52e5ffc731885b890cab047c903424806c278a4d0670d316e02d7d5fe&amp;v=1&amp;region=us 3x, https://i.vimeocdn.com/portrait/113854477_360x360?subrect=4%2C0%2C797%2C793&amp;r=cover&amp;sig=4ae2b9e52e5ffc731885b890cab047c903424806c278a4d0670d316e02d7d5fe&amp;v=1&amp;region=us 4x">)
+![Profile Pic](https://miro.medium.com/v2/resize:fill:176:176/1*lnha3jHStWXqQSdZmy2RYA@2x.jpeg)
 
